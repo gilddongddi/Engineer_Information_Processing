@@ -7,7 +7,7 @@
 
 
 
-<img src="eip_ncs.png"
+<img src="eip_ncs.png">
 <img src="eip_mathod_how_to.png">
 
 
